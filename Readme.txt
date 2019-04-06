@@ -1,12 +1,19 @@
 image preprocessing -> recognizing digit -> result
-0__
+
+
+00_. preprocessor 공백제거, 숫자 중앙에 맞추기
 
 1234567890
 recogniging digit
 step1
 01_. findHierarchy 12357/4690/8
 stet2
-02_.
+02_. findNumberofContact 1/7/235   40/69
+03_. findDiagonalDirection 2/3/5
+04_. distg20 4/0
+05_. findCircleLoc 6/9
+
+06_ result main.py
 
 
 
